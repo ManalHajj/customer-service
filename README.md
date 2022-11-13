@@ -22,6 +22,15 @@
 ![image](https://user-images.githubusercontent.com/81756572/201528959-b8286bd1-0da9-4ab8-b947-286d209ccb60.png)
 ![image](https://user-images.githubusercontent.com/81756572/201528993-8f392ec0-f430-430b-bf04-d26950da9086.png)
 
+
 ## Configuration dynamique 
 ![image](https://user-images.githubusercontent.com/81756572/201529232-ad28eb8d-960e-41ac-a7af-113b49a4ffe8.png)
 ![image](https://user-images.githubusercontent.com/81756572/201529246-1310884f-3d06-4a64-8acb-499bacdc432a.png)
+
+#Billing service
+![image](https://user-images.githubusercontent.com/81756572/201540433-ba00dd00-9e3b-4bc9-95e0-fe9c0c4cd85e.png)
+![image](https://user-images.githubusercontent.com/81756572/201540449-6ecc61dd-ebc0-42d1-b87a-fdf2c80d1ec7.png)
+## Billing database
+![image](https://user-images.githubusercontent.com/81756572/201541584-11b964d9-bbaa-4f4e-83dc-1b90aa7736b9.png)
+![image](https://user-images.githubusercontent.com/81756572/201541680-55427d43-3dd8-4754-9c11-ebeb7deef579.png)
+
