@@ -13,3 +13,15 @@
 # Gateway
 ![image](https://user-images.githubusercontent.com/81756572/201524881-fccb04aa-aac5-4891-913e-5aa5cb9e7e8d.png)
 ![image](https://user-images.githubusercontent.com/81756572/201524904-21e9c7f7-dfca-4eb3-a49b-e4181a0572c2.png)
+
+#Eureka
+![image](https://user-images.githubusercontent.com/81756572/201528667-81db4255-27cc-4d7a-8948-62faf2d98b5c.png)
+![image](https://user-images.githubusercontent.com/81756572/201528809-0eefce76-fe0e-4578-af40-6ed8f4a1f5ee.png)
+
+## service d'enregistrement 
+![image](https://user-images.githubusercontent.com/81756572/201528959-b8286bd1-0da9-4ab8-b947-286d209ccb60.png)
+![image](https://user-images.githubusercontent.com/81756572/201528993-8f392ec0-f430-430b-bf04-d26950da9086.png)
+
+## Configuration dynamique 
+![image](https://user-images.githubusercontent.com/81756572/201529232-ad28eb8d-960e-41ac-a7af-113b49a4ffe8.png)
+![image](https://user-images.githubusercontent.com/81756572/201529246-1310884f-3d06-4a64-8acb-499bacdc432a.png)
